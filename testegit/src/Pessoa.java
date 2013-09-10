@@ -38,4 +38,7 @@ public class Pessoa {
 		System.out.println("Este e o ultimo teste de hoje!");
 	}
 	
+	public void ultimoTesteWeb(){
+		
+	}
 }
