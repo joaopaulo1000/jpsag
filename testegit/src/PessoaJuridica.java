@@ -1,4 +1,3 @@
-
 public class PessoaJuridica {
 	private Pessoa pessoa;
 	private String cnpj;
@@ -17,5 +16,7 @@ public class PessoaJuridica {
 	}
 	
 	
-	
+	public void acao(){
+		System.out.println("O nome da empresa e: " + pessoa.getNome());
+	}
 }
