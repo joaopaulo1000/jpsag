@@ -22,6 +22,8 @@ public class Pessoa {
 		this.email = email;
 	}
 	
-	
+	public void acao02(){
+		System.out.println("Olá, meu nome é: " + getNome() + ", e meu email é: " + getEmail());
+	}
 	
 }
