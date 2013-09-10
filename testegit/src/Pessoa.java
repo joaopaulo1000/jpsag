@@ -22,8 +22,11 @@ public class Pessoa {
 		this.email = email;
 	}
 	
+	public void acao(){
+		
+	}
 	public void acao02(){
-		System.out.println("Olá, meu nome é: " + getNome() + ", e meu email é: " + getEmail());
+		System.out.println("Olï¿½, meu nome ï¿½: " + getNome() + ", e meu email ï¿½: " + getEmail());
 	}
 	
 }
