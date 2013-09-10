@@ -34,4 +34,8 @@ public class Pessoa {
 		System.out.println("Ol�, meu nome �: " + getNome() + ", e meu email �: " + getEmail());
 	}
 	
+	public void ultimoTeste(){
+		System.out.println("Este e o ultimo teste de hoje!");
+	}
+	
 }
