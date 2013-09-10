@@ -23,7 +23,7 @@ public class Pessoa {
 	}
 	
 	public void acao(){
-		System.out.println("Alterado na web");	
+		System.out.println("Alterado na web. Agora SIM!!!");	
 	}
 	public void acao02(){
 		System.out.println("Ol�, meu nome �: " + getNome() + ", e meu email �: " + getEmail());
